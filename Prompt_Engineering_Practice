@@ -8,4 +8,7 @@ Controlling Parameters:
 2. Top-p Value
 3. The prompt(Ofcourse!)
 
+Types of rompting Depending on Shots:
+1. Zero Shot
+2. Few Shot
 
